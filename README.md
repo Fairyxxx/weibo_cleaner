@@ -40,7 +40,7 @@ pip install requests
 ### 下载
 
 ```bash
-git clone https://github.com/yourname/weibo-cleaner.git
+https://github.com/Fairyxxx/weibo_cleaner.git
 cd weibo-cleaner
 ```
 
